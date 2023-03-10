@@ -25,7 +25,7 @@
 - ✨ Gaming
 - ✨ Anime
 - ✨ Reading
-- ✨ Chess
+- ✨ Party
 
 
 
