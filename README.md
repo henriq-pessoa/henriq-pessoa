@@ -26,6 +26,7 @@
 - ✨ Anime
 - ✨ Reading
 - ✨ Party
+- ✨ Chess
 
 
 
