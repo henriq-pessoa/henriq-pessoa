@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu hub! 👋
+# Olá, Bem vindo ao meu hub!
 
 <div align="center">
 <img hight="300" width="500" alt="GIF" align="center" src="https://github.com/henriq-pessoa/henriq-pessoa/blob/main/assets/killua.gif">
@@ -11,7 +11,8 @@
 
 # Sobre mim 💬 :
 
-### - Tenho 24 anos e estudante na Sptech ❤
+### - Tenho 24 anos<br>
+### - Estudante na Sptech ❤
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/henriq-pessoa/henriq-pessoa/blob/main/assets/izuku_study.gif">
 
