@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu hub!
+# Olá, Bem vindo ao meu git!
 
 <div align="center">
 <img hight="300" width="500" alt="GIF" align="center" src="https://github.com/henriq-pessoa/henriq-pessoa/blob/main/assets/killua.gif">
