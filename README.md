@@ -3,7 +3,6 @@
 # Sobre mim 💬 :
 
 ### - Tenho 24 anos<br>
-### - Estudante na Sptech ❤
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/henriq-pessoa/henriq-pessoa/blob/main/assets/izuku_study.gif">
 
